@@ -99,7 +99,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		}
 	],
@@ -123,12 +124,17 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "lib/node.h",
+			"path" : "lib/Vertex.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"path" : "lib/QuestG.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Edge.h",
 			"sourceGroupIndex" : 1
 		}
 	],
